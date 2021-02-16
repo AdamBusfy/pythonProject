@@ -55,7 +55,7 @@ Notifications response test
 About project response test
     check_response  ${about_project}  ${status_code_200}  O projekte
 
-Contact response test
+Contact for restaurants response test
     check_response  ${contact_partner}  ${status_code_200}  Kontakty pre re
 
 *** Keywords ***
